@@ -8,7 +8,7 @@ import sqlite3
 from datetime import datetime  # ✅ added for real-time timestamp
 
 # ==== CONFIG ====
-VIDEO_PATH = "fdoor.mp4"
+VIDEO_PATH = "Untitled.mp4"
 FRAME_DIR = "frames"
 FRAME_EVERY_N_SECONDS = 1
 MODEL_NAME = "Salesforce/blip-image-captioning-base"
