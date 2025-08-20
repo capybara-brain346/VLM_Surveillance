@@ -1,6 +1,6 @@
 
 
-# 📌 FlytBase AI Engineer Assignment – Final Documentation (VLM Based Surveillance enhanced with summarizer and qna)
+# VLM Based Surveillance enhanced with summarizer and queries
 
 ---
 
