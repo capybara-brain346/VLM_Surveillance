@@ -1,0 +1,12 @@
+streamlit
+pandas
+opencv-python
+torch
+torchvision
+torchaudio
+transformers==4.36.2
+timm
+accelerate
+sentencepiece
+python-dotenv
+google-generativeai
